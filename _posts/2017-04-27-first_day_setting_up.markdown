@@ -9,6 +9,7 @@ Setup day and learn to say hello with my new editor, LEARN, which is an ATOM edi
 
 After setting up, I finally able to start on the first lesson proper. I think this would be a good take away here.
 
+
 PSEUDO-CODE FOR TIC TAC TOE
 *
 The general procedure for Tic Tac Toe is as follows:*
